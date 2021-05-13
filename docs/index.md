@@ -1,6 +1,6 @@
 ## Welcome to Pocket
 
-Fundamentals:
+**Fundamentals:**
 - Small transaction crypto
 - For beginners or low income/gains investors
 - Low gas fees
